@@ -1,6 +1,6 @@
 ![MetaMask logo](GrodaWallet.png?raw=true)
 
-# MetaMask
+# GrodaWallet
 
 [![CircleCI](https://circleci.com/gh/MetaMask/metamask-mobile/tree/develop.svg?style=shield)](https://circleci.com/gh/MetaMask/metamask-mobile/tree/develop)
 
