@@ -4,13 +4,13 @@
 
 [![CircleCI](https://circleci.com/gh/MetaMask/metamask-mobile/tree/develop.svg?style=shield)](https://circleci.com/gh/MetaMask/metamask-mobile/tree/develop)
 
-MetaMask is a mobile web browser that provides easy access to websites that use the [Ethereum](https://ethereum.org/) blockchain.
+GrodaWallet is a mobile web browser that provides easy access to websites that use the [Ethereum](https://ethereum.org/) blockchain.
 
 For up to the minute news, follow our [Twitter](https://twitter.com/metamask) or [Medium](https://medium.com/metamask) pages.
 
 To learn how to develop MetaMask-compatible applications, visit our [Developer Docs](https://docs.metamask.io).
 
-## MetaMask Mobile
+## GrodaWallet Mobile
 
 ### Building Locally
 
@@ -186,12 +186,3 @@ yarn test:e2e:android
 
 To get a better understanding of the internal architecture of this app take a look at [this diagram](https://github.com/MetaMask/metamask-mobile/blob/develop/architecture.svg).
 
-## License
-
-MetaMask Mobile is an exciting development for our team and our ecosystem. We've always been proud to offer the MetaMask browser extension under the MIT open source software license. We are still working through licensing considerations for the mobile application in light of a new delivery medium and our business goals. We are exploring many models, all with a significant open component, but we have not made any final decisions.
-
-The source code for this beta is currently viewable under the below copyright. A license to use the mobile version will be distributed along with the mobile application. We believe it is important for our users to be able inspect and verify our code for trustworthiness, but we also wish to preserve our licensing options until we're certain what is best for MetaMask, our community, and our ecosystem. If you have any questions or comments, we would really appreciate hearing your feedback – you can reach us at mobile@metamask.io
-
-© ConsenSys AG, 2016-2019
-
-You are granted a limited non-exclusive license to inspect and study the code in this repository. There is no associated right to reproduction granted under this license except where reproduction is necessary for inspection and study of the code. You may not otherwise reproduce, distribute, modify or create derivative works of the code without our prior consent. All other rights are expressly reserved.
